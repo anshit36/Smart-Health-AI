@@ -1,0 +1,22 @@
+# Security
+.env
+
+# Python Virtual Environment
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Node Modules
+node_modules/
+
+# ChromaDB / Generated Data
+chroma_data/
+chroma.log
+
+# Test / Generated Output
+test_results.json
+
+# Mac System Files
+.DS_Store
